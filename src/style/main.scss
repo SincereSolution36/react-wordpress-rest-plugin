@@ -1,0 +1,12 @@
+.charts {
+    width: 100%;
+    min-height: 300px;
+    overflow: hidden;
+}
+
+.charts-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}

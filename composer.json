@@ -1,0 +1,17 @@
+{
+    "name": "pc/chart-wp-rest-api",
+    "description": "A Plugin using react and rest api",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Pc\\ChartWpRestApi\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andy",
+            "email": "sinceresolution36@gmail.com"
+        }
+    ],
+    "require": {}
+}
